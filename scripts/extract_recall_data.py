@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 # Define paths
-data_dir = "../data"
+data_dir = "../data/data_Rappel_Compagne"
 output_dir = "../output"
 
 # Define recall data structure
